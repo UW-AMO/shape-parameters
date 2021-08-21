@@ -16,7 +16,3 @@ Provide some examples to illustrate the some of the idea of nuisance parameters 
 * Quantile Regularizer
 
    This example concerns about sparse recovery in compress-sensing. When the sparse signal have large percentage positive (or negative) components, quantile regularizer provide more freedom to obtain better result.
-   
-* Total Quantile Regression
-
-	Error in variable model. Assume errors in A coming from a asymmetric distribution.
